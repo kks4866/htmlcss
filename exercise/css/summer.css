@@ -1,0 +1,14 @@
+    body{
+        background-color: hotpink;
+    }
+    h2{
+        color:rgb(185,12,80)
+
+
+    }
+    p{
+        color:green;
+        font-family: 궁서;
+        font-size: 18px;
+        line-height: 1.5;
+    }
